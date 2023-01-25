@@ -1,0 +1,3 @@
+# List of vertices, with (x y z [w=1]) coordinates.
+# Line element (indices to vertices)
+l 1
